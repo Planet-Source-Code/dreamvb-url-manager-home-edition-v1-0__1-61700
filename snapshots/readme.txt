@@ -1,0 +1,1 @@
+This folder is were all the web site captured files will be stored.

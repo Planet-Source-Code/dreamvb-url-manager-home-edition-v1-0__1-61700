@@ -1,0 +1,29 @@
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hello</font>, <b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">#name2#<br>
+  <br>
+  #name1# </font></b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">is 
+  using <i><b>#ProgName#</b></i><br>
+  <br>
+  While they were using this program they would to share the link with you below:<br>
+  <br>
+  <a href="#URL#" target="_blank">#URL#<br>
+  <br>
+  </a>Here is a person message left for you by <b>#name1#<br>
+  <br>
+  </b><font color="#000000">#message#<br>
+  </font></font></p>
+<hr size="1">
+<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#0099FF">If 
+you would like your own copy of #ProgName# Then please visit our web site below:<br>
+<br>
+</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.eraystudios.co.uk">eRay 
+Studios</a></font><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#0099FF"><br>
+</font> 
+</body>
+</html>
